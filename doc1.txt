@@ -8,3 +8,6 @@ User2 Syas hi back
 =======
 User1 says hi
 >>>>>>> d457c506b4fcf3d8505ac4ebf85983e994714ca0
+
+INCOMPLEE WORK STASH USER2
+FINISHED BY USER2
