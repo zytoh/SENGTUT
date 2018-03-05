@@ -3,4 +3,8 @@ SENG300 TUT
 New line added
 User1 Edits textfile
 User2 Edits textfile
+<<<<<<< HEAD
 User2 Syas hi back
+=======
+User1 says hi
+>>>>>>> d457c506b4fcf3d8505ac4ebf85983e994714ca0
