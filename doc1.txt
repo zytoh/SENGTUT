@@ -2,3 +2,4 @@ SENG300 TUT
 
 New line added
 User1 Edits textfile
+User2 Edits textfile
