@@ -1,15 +1,1 @@
-SENG300 TUT 
-
-New line added
-User1 Edits textfile
-User2 Edits textfile
-<<<<<<< HEAD
-User2 Syas hi back
-User1 says hi
-INCOMPLEE WORK STASH USER2
-FINISHED BY USER2
-INPUTBY U2
-
-U2 PUT UP SOME METHOD BUT NOT DONE
-USE STASCH
-NEINE
+hi 1
